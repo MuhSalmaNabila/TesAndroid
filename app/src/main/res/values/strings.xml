@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tes</string>
+    <string name="login_text">Login</string>
+    <string name="logout_text">Logout</string>
+    <string name="email">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="lupa_password">Lupa Password</string>
+
+</resources>
